@@ -1,0 +1,8 @@
+C:\Users\ksd\Desktop\DrawLinePlugin\PutText\bin\Debug\DrawLine.dll
+C:\Users\ksd\Desktop\DrawLinePlugin\PutText\bin\Debug\DrawLine.pdb
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.csproj.AssemblyReference.cache
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.MainForm.resources
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.csproj.GenerateResource.cache
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.csproj.CoreCompileInputs.cache
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.dll
+C:\Users\ksd\Desktop\DrawLinePlugin\ObjDir\2016i\DrawLine\DrawLine.pdb
